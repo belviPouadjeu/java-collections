@@ -172,6 +172,58 @@ public class ArrayListExample {
 }
 ```
 
+## Challenges for ArrayList
+
+### Challenge 1: Basic Operations
+- Create an ArrayList of integers.
+
+- Add the following elements: `10, 20, 30, 40, 50.`
+
+- Print the size of the list.
+
+- Remove the element at index 2.
+
+- Check if the list contains the number 30.
+
+- Print the updated list.
+
+### Challenge 2: Iteration
+  - Create an ArrayList of strings.
+
+  - Add the following elements: `"Apple", "Banana", "Cherry", "Date"`.
+
+  - Iterate over the list using a **for-each loop** and print each element.
+
+  - Iterate over the list using an **iterator** and print each element.
+
+### Challenge 3: Sorting
+  - Create an ArrayList of integers.
+
+  - Add the following elements: 34, 12, 56, 7, 23.
+
+  - Sort the list in ascending order using Collections.sort().
+
+  - Sort the list in descending order using a custom comparator.
+
+  - Print both sorted lists.
+
+### Challenge 4: Searching
+  - Create an ArrayList of strings.
+
+  - Add the following elements: `"Apple", "Banana", "Cherry", "Date"`.
+
+  - Search for the index of the element `"Cherry"`.
+
+  - Check if the list contains the element `"Grape"`.
+
+  - Print the results.
+
+### Challenge 5: Sublist
+  - Create an ArrayList of integers.
+
+  - Add the following elements: `10, 20, 30, 40, 50, 60, 70`.
+
+  - Extract a sublist from index `2 to 5` 
 --- 
 ## 2.2 LinkedList
   - **Description**: `LinkedList` is a doubly-linked list implementation of the `List`and `Deque` interfaces.
